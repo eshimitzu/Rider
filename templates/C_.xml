@@ -1,0 +1,35 @@
+<templateSet group="C#">
+  <template name="gs" value="{ get; set; }&#10;" shortcut="ENTER" description="getter and setter" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="gps" value="{ get; private set; }&#10;" description="getter and private setter" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="log" value="Debug.Log(&quot;$SELECTION$&quot;);" description="Unity debug log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>

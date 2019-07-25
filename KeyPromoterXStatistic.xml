@@ -1,0 +1,352 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Annotate">
+        <Item>
+          <IdeaActionID>Annotate</IdeaActionID>
+          <ShortCut>'⌃⌥G'</ShortCut>
+          <Description>Annotate</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'⌃⌥←'</ShortCut>
+          <Description>Back</Description>
+          <Count>49</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Build">
+        <Item>
+          <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
+          <ShortCut>'⌥0'</ShortCut>
+          <Description>Build</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Build Solution">
+        <Item>
+          <IdeaActionID>BuildSolutionAction</IdeaActionID>
+          <ShortCut>'⌃F9'</ShortCut>
+          <Description>Build Solution</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Close">
+        <Item>
+          <IdeaActionID>CloseContent</IdeaActionID>
+          <ShortCut>'⌃F4'</ShortCut>
+          <Description>Close</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌃K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'⌃C' or '⌘C'</ShortCut>
+          <Description>Copy</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌃⌥⇧C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'⌃X' or '⌘X'</ShortCut>
+          <Description>Cut</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Attach to Unity Editor &amp; Play'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'Attach to Unity Editor &amp; Play'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Attach to Unity Editor'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'Attach to Unity Editor'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'Newtonsoft.J….Tests.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'Newtonsoft.J….Tests.csproj'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <ShortCut>'⌥0'</ShortCut>
+          <Description>Event Log</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Explorer">
+        <Item>
+          <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
+          <ShortCut>'⌘+1'</ShortCut>
+          <Description>Explorer</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'⌥F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Forward">
+        <Item>
+          <IdeaActionID>Forward</IdeaActionID>
+          <ShortCut>'⌃⌥→'</ShortCut>
+          <Description>Forward</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⌃⇧F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>ReSharperGotoImplementation</IdeaActionID>
+          <ShortCut>'⌥⇧1'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌃V' or '⌘V'</ShortCut>
+          <Description>Paste</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste from History...">
+        <Item>
+          <IdeaActionID>PasteMultiple</IdeaActionID>
+          <ShortCut>'⌃⇧V'</ShortCut>
+          <Description>Paste from History...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Play/Edit">
+        <Item>
+          <IdeaActionID>TriggerPlayInUnity</IdeaActionID>
+          <ShortCut>'⌥P'</ShortCut>
+          <Description>Play/Edit</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refactor This...">
+        <Item>
+          <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'⌃⌥⇧T'</ShortCut>
+          <Description>Refactor This...</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'⇧F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '5520:PhotonSocketServer@18.223.111.37:22'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun '5520:PhotonSocketServer@18.223.111.37:22'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⌃⇧F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Default'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Default'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Show Diff</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Intention Actions">
+        <Item>
+          <IdeaActionID>ShowIntentionActions</IdeaActionID>
+          <ShortCut>'⌥⏎'</ShortCut>
+          <Description>Show Intention Actions</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Solution or Project...">
+        <Item>
+          <IdeaActionID>RiderOpenSolution</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Solution or Project...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'⇧F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '5520:PhotonSocketServer@18.223.111.37:22'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Stop '5520:PhotonSocketServer@18.223.111.37:22'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Attach to Unity Editor &amp; Play'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Stop 'Attach to Unity Editor &amp; Play'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Attach to Unity Editor'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Stop 'Attach to Unity Editor'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Default'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Stop 'Default'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'⌥2'</ShortCut>
+          <Description>Structure</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌥7'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌃F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>76</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'⌥9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌃B'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>176</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Usages">
+        <Item>
+          <IdeaActionID>ShowUsages</IdeaActionID>
+          <ShortCut>'⌥B'</ShortCut>
+          <Description>Show Usages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

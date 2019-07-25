@@ -1,0 +1,12 @@
+<application>
+  <component name="CodeLensSettings">
+    <limits>
+      <map>
+        <entry key="Top" value="7" />
+      </map>
+    </limits>
+    <enabled>
+      <map />
+    </enabled>
+  </component>
+</application>
