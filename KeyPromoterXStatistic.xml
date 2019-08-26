@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌃⌥←'</ShortCut>
           <Description>Back</Description>
-          <Count>87</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
