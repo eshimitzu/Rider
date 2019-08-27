@@ -166,7 +166,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌃V' or '⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
