@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Attach to Unity Editor'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -182,7 +182,7 @@
           <IdeaActionID>TriggerPlayInUnity</IdeaActionID>
           <ShortCut>'⌥P'</ShortCut>
           <Description>Play/Edit</Description>
-          <Count>16</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
@@ -222,7 +222,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Default'">
@@ -294,7 +294,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Stop 'Attach to Unity Editor'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
