@@ -142,6 +142,9 @@
     <mouse-shortcut keystroke="alt button1" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
