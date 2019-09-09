@@ -122,6 +122,9 @@
   <action id="Macro.DLog">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="Macro.DebugLog">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="Macro.Push">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
