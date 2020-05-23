@@ -6,10 +6,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
-      <mapping ext="a" type="PLAIN_TEXT" />
       <mapping ext="dotsettings" type="PLAIN_TEXT" />
       <mapping ext="mat" type="Resources" />
-      <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
