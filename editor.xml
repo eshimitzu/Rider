@@ -2,16 +2,5 @@
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\bNotImplementedException\b" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-    <filter name="i am" />
-    <filter name="bug">
-      <pattern index="1" />
-    </filter>
-    <filter name="fixme" />
   </component>
 </application>
