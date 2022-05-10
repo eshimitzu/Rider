@@ -1,5 +1,5 @@
 <application>
-  <component name="CodeLensSettings">
+  <component name="CodeLensSettings" isTransfered="true">
     <limits>
       <map>
         <entry key="Top" value="7" />
